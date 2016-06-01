@@ -1,2 +1,2 @@
 # websocket
-java demowebsocket
+java demo websocket
